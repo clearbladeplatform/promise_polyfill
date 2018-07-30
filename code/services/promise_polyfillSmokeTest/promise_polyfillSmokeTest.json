@@ -1,0 +1,12 @@
+{
+    "current_version": 1,
+    "dependencies": "log,promise_polyfill",
+    "logging_enabled": "false",
+    "name": "promise_polyfillSmokeTest",
+    "params": [],
+    "permissions": {
+        "Authenticated": 1
+    },
+    "run_user": "",
+    "source": "promise_polyfillSmokeTest.js"
+}
